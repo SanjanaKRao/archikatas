@@ -1,4 +1,4 @@
-# **[Project Name] - AI-Powered Grading-Feedback & Fraud Detection System**
+# **TheBlueprint - AI-Powered Grading-Feedback & Fraud Detection System**
 
 ## **📌 Overview**
 This repository contains the complete implementation of an **AI-driven system** for:
