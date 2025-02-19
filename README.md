@@ -45,5 +45,5 @@ This repository contains the complete implementation of an **AI-driven system** 
 ## **🚀 Installation & Setup**
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/SanjanaKRao/archikatas.git
 cd your-repo-name
