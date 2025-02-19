@@ -4,10 +4,9 @@
 This repository contains the complete implementation of an **AI-driven system** for:
 - **Automated Short-Answer Grading** using LLMs and structured evaluation.  
 - **Automated Case-Study Grading** using LLM-as-Judge.  
-
-- **Fraud Detection in Ungraded Test Responses** using anomaly detection techniques. 
 - **Refining of Questions and Case Studies** using LLM Models and Trend recognition.
-- **Expert Review & Guardrails Implementation** to ensure AI fairness and compliance.  
+- **Fraud Detection in Ungraded Test Responses** using anomaly detection techniques. 
+- **Expert Review &  Guardrails Implementation** to ensure AI fairness and compliance.  
 
 ## **📁 Repository Structure**
 | Folder | Description |

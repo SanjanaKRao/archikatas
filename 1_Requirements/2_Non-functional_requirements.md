@@ -13,16 +13,10 @@
     -   The architecture should accommodate increasing numbers of users
         and data volume without degradation in performance.
 
-3.  **Reliability**
+        
+3.  **Usability**
 
-    -   Ensure high availability with minimal downtime.
-
-    -   Implement failover mechanisms and regular backups to prevent
-        data loss.
-
-4.  **Usability**
-
-    -   Design intuitive user interfaces for both candidates and
+    -   Design intuitive user interfaces for both reviewers and
         administrators.
 
     -   Provide clear navigation and accessible features to enhance user

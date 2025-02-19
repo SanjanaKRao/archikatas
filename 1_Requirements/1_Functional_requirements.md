@@ -27,7 +27,13 @@
     -   AI models should be employed to assess performance and provide
         personalized feedback.
 
-4.  **Fraud Detection Mechanism**
+4.  **Review Architectural Questions**
+
+    -   The system must review for high failure rate in questions and modify these questions accordingly
+
+    -   It should also constantly monitor latest architectural trends and update the tests constantly
+
+5.  **Fraud Detection Mechanism**
 
     -   The system must analyze ungraded databases to identify potential
         fraudulent activities, such as:
@@ -39,7 +45,7 @@
     -   Detected anomalies should trigger alerts for administrative
         review.
 
-5.  **Administrative Dashboard**
+6.  **Administrative Dashboard**
 
     -   Provide a user interface for administrators to:
 
@@ -49,14 +55,14 @@
 
         -   Access system logs and reports
 
-6.  **Data Integrity & Security**
+7.  **Data Integrity & Security**
 
     -   Ensure all data transmissions are encrypted.
 
     -   Implement measures to prevent unauthorized data access or
         modifications.
 
-7.  **System Integration**
+8.  **System Integration**
 
     -   Integrate seamlessly with existing databases and AI models.
 
